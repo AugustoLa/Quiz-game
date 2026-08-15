@@ -1,5 +1,4 @@
-const players = [
-    {name: 'Augusto', symbol: 'X'},
-]
+pontos = document.querySelector(".pontos");
 
-players.push({name: 'Giovana', symbol: 'O'})
+pergunta1 = 'PERGUNTA 1'
+pergunta2 = 'PERGUNTA 2'
